@@ -1,11 +1,10 @@
-# Flask==2.1.1
-# Flask-CORS==3.0.10
-# PyPDF2==2.10.5
-# nltk==3.6.5
-# sumy==0.9.0
-# python-pptx==0.6.21
-# pyttsx3==2.90
-# moviepy==1.0.3
-# Pillow==8.4.0
-
-# this wrong version 
+Flask== 2.3.2
+Flask-CORS==3.0.10
+PyPDF2==3.0.1
+nltk==3.8.1
+sumy==0.11.0
+python-pptx==0.6.23
+pyttsx3==2.90
+moviepy==1.0.3
+Pillow==10.1.0
+ 
